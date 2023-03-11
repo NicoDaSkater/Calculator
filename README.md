@@ -1,2 +1,2 @@
 # Calculator
-Enjoy this calming red themed calculator!
+Enjoy this calming, red themed calculator!
